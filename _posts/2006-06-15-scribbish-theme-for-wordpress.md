@@ -13,10 +13,6 @@ Those who have visited this blog before will probably notice a change in appeara
 
 Then I decided to [check out Ruby on Rails](/geekblog/2006/04/12/first-time-riding-the-rails/) a couple of months ago, so I set up a test blog using [Typo](http://typosphere.org/) because it is one of the best open source examples of a complete Rails application. From there I discovered Packagethief's [Quoted-Printable](http://quotedprintable.com/) blog and the [Scribbish](http://quotedprintable.com/pages/scribbish) theme. Here's a snippet that I posted to my test blog at the time:
 
-
-
 > I've always preferred page designs that are simple and clean, lightweight to load, and yet still pleasing to the eye. Scribbish fits those criteria perfectly. I just wish there was a WordPress-compatible version that I could use on my public blog!
-
-
 
 I recently had a little time to kill, so I set out to create the WordPress version myself and [ScribbishWP](/geekblog/scribbishwp) was born. If you're a WordPress user in search of an awesome theme then check it out, and give a shout out to Packagethief for a great visual design.

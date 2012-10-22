@@ -15,107 +15,46 @@ ScribbishWP has only been tested on WordPress 2.2. Your mileage may vary on othe
 
 There are several style variations available in ScribbishWP:
 
-
-
-
-    
   * Original-width or wide-width layout
-
-    
   * Scribbish 2.0 or Scribbish 3.0 header styles
-
-    
   * Right or left sidebar position
-
-
 
 The defaults are original-width layout, right sidebar, and Scribbish 2.0 header styles because that is what I use on this blog. You can change the defaults by editing the `style.css` file. Just look for the commented sections.
 
 
+## Download
 
-#### Download
+#### Latest release: 1.0-3.0
 
-
-
-**Latest release: 1.0-3.0**
-
-
-
-
-	
   * [scribbishwp-1.0-3.0.tar.gz](/projects/scribbishwp/scribbishwp-1.0-3.0.tar.gz) ([.zip](/projects/scribbishwp/scribbishwp-1.0-3.0.zip))
 
 
-
-
-
-#### Installation
-
-
+## Installation
 
 Just unpack the archive into your WordPress `wp-content/themes` directory. You can then use the [Presentation](http://codex.wordpress.org/Administration_Panels#Presentation_-_Change_the_Look_of_your_Blog) panel in WordPress Administration to activate the ScribbishWP theme.
 
 
-
-#### Feedback
-
-
+## Feedback
 
 ScribbishWP is a work in progress. If you discover any bugs, display problems, or browser compatibility issues, please let me know. You can reach me at kenny [dot] pitt [at] gmail [dot] com.
 
 
-
-#### Version History
-
-
+## Version History
 
 ScribbishWP uses a two-part version number in the form `x.x-y.y`. The `x.x` part represents the version of ScribbishWP itself, and the `y.y` part represents the version of the original Scribbish theme on which it is based.
 
-
-
-
-**1.0-3.0**
-
-    
-
-
-
+#### 1.0-3.0
 
   * Support for WordPress 2.x configurable sidebar widgets. A new "Syndication" widget and a modified version of the "Meta" widget are included to allow you to configure your sidebar to match the default ScribbishWP sidebar.
-
-
   * Improved [hAtom](http://microformats.org/wiki/hatom) support based on Scribbish 3.0.
-
-
   * Support for displaying the comment count after the post title as seen on [Quoted-Printable](http://quotedprintable.com).
-
-
-
   * Dropped support for WordPress 1.5.
-
-
-
 
 Download: [scribbishwp-1.0-3.0.tar.gz](/projects/scribbishwp/scribbishwp-1.0-3.0.tar.gz) ([.zip](/projects/scribbishwp/scribbishwp-1.0-3.0.zip))
 
 
-
-
-**0.1-2.0**
-
-    
-
-
-
+#### 0.1-2.0
 
   * Initial release based on [Scribbish 2.0](http://quotedprintable.com/files/scribbish-2.0.tar.gz).
 
-
-
-
 Download: [scribbishwp-0.1-2.0.tar.gz](/projects/scribbishwp/scribbishwp-0.1-2.0.tar.gz) ([.zip](/projects/scribbishwp/scribbishwp-0.1-2.0.zip))
-
-
-
-
-

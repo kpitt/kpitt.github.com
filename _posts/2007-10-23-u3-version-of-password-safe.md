@@ -15,17 +15,6 @@ Well, the [U3 Developer Kit](http://www.u3.com/developers/deploymentkit_sc.aspx)
 
 I'm hereby making available the final result under the same [Artistic License](http://www.opensource.org/licenses/artistic-license.php) terms as Password Safe itself. This is based on the 3.10 version of Password Safe, but I will attempt to provide updates whenever I happen to notice a new release of the original binaries. Feel free to [email me](mailto:kenny.pitt@gmail.com) if you have any feedback. I simply ask that you remember I had nothing to do with the original Password Safe program, only the packaging.
 
-
-
-
-    
   * [U3 Installer](/projects/U3/pwsafe/pwsafe-u3-3.10-installer.exe)
-
-    
   * [Source](/projects/U3/pwsafe/pwsafe-u3-3.10-src.zip)  
-
-        The source ZIP contains just the source files for the U3 packaging. You'll need to obtain the program binaries from Password Safe and the `U3Action.exe` from the U3 Developer Tools, then place the files according to the directory listing in `package_dir.txt`. You can also get the U3P2EXE tool from the U3 site to build the executable installer package.
-    
-
-
-
+    The source ZIP contains just the source files for the U3 packaging. You'll need to obtain the program binaries from Password Safe and the `U3Action.exe` from the U3 Developer Tools, then place the files according to the directory listing in `package_dir.txt`. You can also get the U3P2EXE tool from the U3 site to build the executable installer package.

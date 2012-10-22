@@ -13,6 +13,4 @@ categories:
 
 When creating a new Windows Communication Foundation web service, the default extension is .svc. This can be a problem if you want to migrate an existing .NET web service where clients may have hard-coded the .asmx extension. The following article from MSDN Blogs shows how to configure a WCF web service that uses the .asmx extension:
 
- 
-
 [Wenlong Dong's Blog : How to use .asmx extension to handle WCF requests?](http://blogs.msdn.com/wenlong/archive/2007/09/18/how-to-use-asmx-extension-to-handle-wcf-requests.aspx)
