@@ -9,6 +9,10 @@ categories:
 - Blog
 ---
 
+**UPDATE:** ScribbishWP is now hosted on GitHub at [kpitt/scribbishwp](https://github.com/kpitt/scribbishwp).  You can find the original archive files there, or you can fork it and create your own version.
+
+---
+
 Those who have visited this blog before will probably notice a change in appearance. I never cared much for the default WordPress theme, but I browsed through who knows how many alternate themes in the [theme gallery](http://wordpress.org/extend/themes/) and still didn't find anything to my liking.
 
 Then I decided to [check out Ruby on Rails](/geekblog/2006/04/12/first-time-riding-the-rails/) a couple of months ago, so I set up a test blog using [Typo](http://typosphere.org/) because it is one of the best open source examples of a complete Rails application. From there I discovered Packagethief's [Quoted-Printable](http://quotedprintable.com/) blog and the [Scribbish](http://quotedprintable.com/pages/scribbish) theme. Here's a snippet that I posted to my test blog at the time:
