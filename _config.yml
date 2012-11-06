@@ -3,3 +3,6 @@ markdown: rdiscount
 pygments: true
 
 canonical_url: http://geek.pittcrew.net
+
+analytics:
+    tracking_id: UA-36122413-1
