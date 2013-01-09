@@ -1,4 +1,6 @@
+.bundle/
 _drafts/
 _site/
+_vendor/
 .DS_Store
 *.swp

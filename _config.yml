@@ -4,5 +4,7 @@ pygments: true
 
 canonical_url: http://geek.pittcrew.net
 
+exclude: [Gemfile, Gemfile.lock]
+
 analytics:
     tracking_id: UA-36122413-1
