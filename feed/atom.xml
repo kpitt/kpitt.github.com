@@ -15,9 +15,14 @@ layout: nil
  </author>
 
  {% for post in site.posts %}
+ {% if post.external-url %}
+   {% capture title_url %}{{ post.external-url }}{% endcapture %}
+ {% else %}
+   {% capture title_url %}{{ site.canonical_url }}{{ post.url }}{% endcapture %}
+ {% endif %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="{{ site.canonical_url }}{{ post.url }}"/>
+   <link href="{{ title_url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.canonical_url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
