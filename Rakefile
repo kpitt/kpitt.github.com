@@ -6,12 +6,12 @@ task :default => 'generate'
 desc "Generate jekyll site"
 task :generate do
   puts "## Generating site with Jekyll"
-  sh "jekyll --pygments --no-lsi --safe"
+  sh "jekyll build --safe"
 end
 
 desc "Launch preview environment"
 task :preview do
-  sh "jekyll --pygments --no-lsi --auto --server"
+  sh "jekyll serve --safe --watch"
 end # task :preview
 
 # usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
