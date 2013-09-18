@@ -1,0 +1,5 @@
+<li>
+  <span>{{ post.date | date_to_string }}</span> &raquo;
+  <a href="{{ post.url }}">{{ post.title }}</a>
+  {% if post.external-url %}<a href="{{ post.external-url }}">&rArr;</a>{% endif %}
+</li>
