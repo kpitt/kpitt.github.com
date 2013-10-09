@@ -4,7 +4,7 @@ title: "Replacing the TextMate 2 Icon"
 date: 2013-10-02 21:05
 comments: false
 external-url: 
-categories: [Mac, Applications]
+tags: [ Mac, Applications ]
 ---
 
 The application icon for Textmate 2 is a bright, pink flower.  Maybe they just want to avoid confusion with the commercial version during the alpha phase, but it does look a little unprofessional next to the other icons in dock. Fortunately, it's an easy fix.  Here's how to do it:

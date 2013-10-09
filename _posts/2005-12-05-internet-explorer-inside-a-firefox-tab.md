@@ -5,7 +5,7 @@ layout: post
 slug: internet-explorer-inside-a-firefox-tab
 title: Internet Explorer inside a Firefox tab
 wordpress_id: 8
-categories:
+tags:
 - Applications
 - Internet
 ---

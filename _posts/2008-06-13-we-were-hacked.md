@@ -5,7 +5,7 @@ layout: post
 slug: we-were-hacked
 title: We were hacked!
 wordpress_id: 26
-categories:
+tags:
 - General
 ---
 

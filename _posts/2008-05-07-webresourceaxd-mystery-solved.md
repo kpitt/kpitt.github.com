@@ -5,7 +5,7 @@ layout: post
 slug: webresourceaxd-mystery-solved
 title: WebResource.axd mystery solved
 wordpress_id: 23
-categories:
+tags:
 - .NET
 - Programming
 ---

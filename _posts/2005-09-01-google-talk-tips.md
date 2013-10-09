@@ -5,7 +5,7 @@ layout: post
 slug: google-talk-tips
 title: Google Talk tips
 wordpress_id: 4
-categories:
+tags:
 - Applications
 ---
 

@@ -5,7 +5,7 @@ layout: post
 slug: first-impressions-of-google
 title: First impressions of Google+
 wordpress_id: 31
-categories:
+tags:
 - Internet
 ---
 

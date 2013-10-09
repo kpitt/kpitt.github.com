@@ -5,7 +5,7 @@ layout: post
 slug: super-sized-google-search-box
 title: '"Super-sized" Google search box'
 wordpress_id: 30
-categories:
+tags:
 - Internet
 ---
 

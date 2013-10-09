@@ -5,7 +5,7 @@ layout: post
 slug: wcf-services-with-the-asmx-extension
 title: WCF Services with the .asmx extension
 wordpress_id: 28
-categories:
+tags:
 - .NET
 - Internet
 - Programming

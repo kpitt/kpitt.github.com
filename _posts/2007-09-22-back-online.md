@@ -5,7 +5,7 @@ layout: post
 slug: back-online
 title: Back online
 wordpress_id: 21
-categories:
+tags:
 - Blog
 ---
 

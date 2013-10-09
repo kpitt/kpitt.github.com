@@ -5,7 +5,7 @@ layout: post
 slug: coolest-new-technology-at-the-pdc
 title: Coolest new technology at the PDC
 wordpress_id: 7
-categories:
+tags:
 - Programming
 ---
 

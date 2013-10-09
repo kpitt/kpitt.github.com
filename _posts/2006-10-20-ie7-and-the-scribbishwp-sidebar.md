@@ -5,7 +5,7 @@ layout: post
 slug: ie7-and-the-scribbishwp-sidebar
 title: IE7 and the ScribbishWP sidebar
 wordpress_id: 18
-categories:
+tags:
 - Blog
 ---
 

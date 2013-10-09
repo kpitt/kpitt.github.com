@@ -5,7 +5,7 @@ layout: post
 slug: turbo-c-returns
 title: Turbo C++ returns!
 wordpress_id: 16
-categories:
+tags:
 - Programming
 ---
 

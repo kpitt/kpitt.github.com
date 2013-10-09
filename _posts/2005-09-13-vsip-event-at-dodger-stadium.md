@@ -5,7 +5,7 @@ layout: post
 slug: vsip-event-at-dodger-stadium
 title: VSIP event at Dodger Stadium
 wordpress_id: 6
-categories:
+tags:
 - General
 ---
 

@@ -5,7 +5,7 @@ layout: post
 slug: visual-studio-2008-database-edition-and-sql-server-2008
 title: Visual Studio 2008 Database Edition and SQL Server 2008
 wordpress_id: 29
-categories:
+tags:
 - .NET
 - Programming
 - Visual Studio

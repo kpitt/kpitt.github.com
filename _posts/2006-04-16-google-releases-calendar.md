@@ -5,7 +5,7 @@ layout: post
 slug: google-releases-calendar
 title: Google releases Calendar
 wordpress_id: 12
-categories:
+tags:
 - Applications
 - Internet
 ---

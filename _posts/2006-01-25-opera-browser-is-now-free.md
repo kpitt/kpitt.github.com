@@ -5,7 +5,7 @@ layout: post
 slug: opera-browser-is-now-free
 title: Opera browser is now free
 wordpress_id: 10
-categories:
+tags:
 - Applications
 - Internet
 ---

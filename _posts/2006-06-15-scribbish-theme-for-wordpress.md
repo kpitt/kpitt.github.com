@@ -5,7 +5,7 @@ layout: post
 slug: scribbish-theme-for-wordpress
 title: Scribbish theme for WordPress
 wordpress_id: 13
-categories:
+tags:
 - Blog
 ---
 

@@ -5,7 +5,7 @@ layout: post
 slug: open-source-ajax-libraries-hosted-by-google
 title: Open-source AJAX libraries hosted by Google
 wordpress_id: 27
-categories:
+tags:
 - Internet
 - Programming
 ---

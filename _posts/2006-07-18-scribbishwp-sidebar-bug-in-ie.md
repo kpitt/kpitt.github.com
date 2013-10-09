@@ -5,7 +5,7 @@ layout: post
 slug: scribbishwp-sidebar-bug-in-ie
 title: ScribbishWP sidebar bug in IE
 wordpress_id: 15
-categories:
+tags:
 - Blog
 ---
 

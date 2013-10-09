@@ -5,7 +5,7 @@ layout: post
 slug: heading-to-pdc-05
 title: Heading to PDC 05
 wordpress_id: 5
-categories:
+tags:
 - General
 ---
 

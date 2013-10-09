@@ -5,7 +5,7 @@ layout: post
 slug: templates-in-aspnet-user-controls
 title: Templates in ASP.NET User Controls
 wordpress_id: 25
-categories:
+tags:
 - .NET
 - Programming
 ---

@@ -4,7 +4,7 @@ title: "How to Install Scala on a Mac"
 date: 2013-05-05 21:54
 comments: false
 external-url: http://kevintechnology.com/post/26375906420/the-easy-way-to-install-scala-on-mac-os-x
-categories: [Mac, Programming]
+tags: [ Mac, Programming ]
 ---
 
 Here's a brief how-to for installing Scala on a Mac.  It's super-simple if

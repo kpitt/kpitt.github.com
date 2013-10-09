@@ -5,7 +5,7 @@ layout: post
 slug: u3-version-of-password-safe
 title: U3 version of Password Safe
 wordpress_id: 22
-categories:
+tags:
 - Applications
 ---
 

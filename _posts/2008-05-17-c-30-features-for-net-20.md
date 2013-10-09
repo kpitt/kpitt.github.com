@@ -5,7 +5,7 @@ layout: post
 slug: c-30-features-for-net-20
 title: C# 3.0 features for .NET 2.0
 wordpress_id: 24
-categories:
+tags:
 - .NET
 - Programming
 ---

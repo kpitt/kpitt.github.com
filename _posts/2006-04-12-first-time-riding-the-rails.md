@@ -5,7 +5,7 @@ layout: post
 slug: first-time-riding-the-rails
 title: First time riding the Rails
 wordpress_id: 11
-categories:
+tags:
 - Mac
 - Programming
 ---

@@ -4,7 +4,7 @@ title: "Open Source TextMate"
 date: 2013-10-01 20:35
 comments: false
 external-url: 
-categories: [Mac, Programming, Applications]
+tags: [ Mac, Programming, Applications ]
 ---
 
 How did I manage to miss this for so long?  TextMate, the Mac text editor

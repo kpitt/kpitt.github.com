@@ -5,7 +5,7 @@ layout: post
 slug: google-talk-is-here
 title: Google Talk is here
 wordpress_id: 3
-categories:
+tags:
 - Applications
 ---
 

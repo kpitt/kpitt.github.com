@@ -5,7 +5,7 @@ layout: post
 slug: new-tech-blog
 title: New tech blog
 wordpress_id: 2
-categories:
+tags:
 - General
 ---
 

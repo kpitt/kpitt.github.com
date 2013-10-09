@@ -9,8 +9,8 @@ layout: default
 {% endif %}
 <p class="meta">
 {{ page.date | date_to_string }}
-{% unless page.categories == empty %}
-&ndash; {{ page.categories | array_to_sentence_string }}
+{% unless page.tags == empty %}
+&ndash; {{ page.tags | array_to_sentence_string }}
 {% endunless %}
 </p>
 
