@@ -14,7 +14,9 @@ task :preview do
   sh "jekyll serve --safe --watch"
 end # task :preview
 
-# usage rake new_post[my-new-post] or rake new_post['my new post'] or rake new_post (defaults to "new-post")
+# usage rake new_post[my-new-post]
+#    or rake new_post['my new post']
+#    or rake new_post (prompts for title)
 desc "Begin a new post"
 task :new_post, :title do |t, args|
   if args.title
