@@ -3,6 +3,9 @@ markdown: rdiscount
 lsi: false
 highlighter: pygments
 
+gems:
+    - jekyll-sitemap
+
 canonical_url: http://geek.pittcrew.net
 
 exclude: [Gemfile, Gemfile.lock, Rakefile]
