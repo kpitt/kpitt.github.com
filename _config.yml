@@ -1,7 +1,7 @@
 permalink: /:year/:month/:title.html
 markdown: rdiscount
 lsi: false
-pygments: true
+highlighter: pygments
 
 canonical_url: http://geek.pittcrew.net
 
