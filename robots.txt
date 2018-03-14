@@ -1,4 +1,0 @@
----
-title: Robots
----
-Sitemap: {{site.canonical_url}}/sitemap.xml
