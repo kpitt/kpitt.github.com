@@ -1,19 +1,6 @@
 require "rubygems"
 require "stringex"
 
-task :default => 'generate'
-
-desc "Generate jekyll site"
-task :generate do
-  puts "## Generating site with Jekyll"
-  sh "jekyll build --safe"
-end
-
-desc "Launch preview environment"
-task :preview do
-  sh "jekyll serve --safe --watch"
-end # task :preview
-
 # usage rake new_post[my-new-post]
 #    or rake new_post['my new post']
 #    or rake new_post (prompts for title)
