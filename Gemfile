@@ -1,9 +1,8 @@
 source "https://rubygems.org"
-ruby "2.1.7"
+ruby "2.4.3"
 
-gem 'github-pages'
+gem 'github-pages', group: :jekyll_plugins
 
 group :development do
-  gem 'stringex',   '~> 1.4.0'
+  gem 'stringex'
 end
-
