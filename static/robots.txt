@@ -1,1 +1,1 @@
-Sitemap: http://geek.pittcrew.net/sitemap.xml
+Sitemap: http://geek.pittcrew.org/sitemap.xml

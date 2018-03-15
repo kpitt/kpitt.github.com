@@ -1,6 +1,22 @@
 title: PittGeek
-baseURL: http://geek.pittcrew.net
+baseURL: http://geek.pittcrew.org
 languageCode: en-us
+theme: hyde
 
-disablePathToLower: true
+disablePathToLower: false
+enableRobotsTXT: true
 googleAnalytics: UA-36122413-1
+
+permalinks:
+  posts: "/posts/:year/:month/:slug/"
+  default: "/:slug/"
+
+params:
+  author: "Kenny Pitt"
+  description: "A blog only a geek could love"
+
+menu:
+  main:
+    - name: "Blog"
+      weight: 1
+      url: "/posts/"
