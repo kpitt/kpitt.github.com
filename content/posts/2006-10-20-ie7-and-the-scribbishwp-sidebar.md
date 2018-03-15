@@ -1,8 +1,7 @@
 ---
 comments: true
 date: 2006-10-20T14:40:11Z
-categories:
-- Blog
+categories: [ Blog ]
 title: IE7 and the ScribbishWP Sidebar
 wordpress_id: 18
 ---

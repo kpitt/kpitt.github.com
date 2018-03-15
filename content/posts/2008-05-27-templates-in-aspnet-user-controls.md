@@ -2,9 +2,7 @@
 comments: true
 date: 2008-05-27T16:36:54Z
 slug: templates-in-aspnet-user-controls
-categories:
-- .NET
-- Programming
+categories: [ .NET, Programming ]
 title: Templates in ASP.NET User Controls
 wordpress_id: 25
 ---

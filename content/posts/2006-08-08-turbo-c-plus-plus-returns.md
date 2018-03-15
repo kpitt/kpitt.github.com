@@ -2,8 +2,7 @@
 comments: true
 date: 2006-08-08T17:03:33Z
 slug: turbo-c-plus-plus-returns
-categories:
-- Programming
+categories: [ Programming ]
 title: Turbo C++ Returns!
 wordpress_id: 16
 ---

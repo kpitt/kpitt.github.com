@@ -1,8 +1,7 @@
 ---
 comments: true
 date: 2007-09-22T09:28:01Z
-categories:
-- Blog
+categories: [ Blog ]
 title: Back Online
 wordpress_id: 21
 ---

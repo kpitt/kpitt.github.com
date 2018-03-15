@@ -2,9 +2,7 @@
 comments: true
 date: 2014-09-20T00:00:00Z
 external-url: null
-categories:
-- Programming
-- Applications
+categories: [ Programming, Applications ]
 title: PowerShell Mode for Zed
 ---
 

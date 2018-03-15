@@ -1,9 +1,7 @@
 ---
 comments: false
 date: 2006-04-12T07:47:31Z
-categories:
-- Mac
-- Programming
+categories: [ Mac, Programming ]
 title: First Time Riding the Rails
 wordpress_id: 11
 ---

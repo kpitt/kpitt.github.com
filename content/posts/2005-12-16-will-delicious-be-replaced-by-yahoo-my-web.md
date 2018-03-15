@@ -2,8 +2,7 @@
 comments: false
 date: 2005-12-16T15:52:36Z
 slug: will-delicious-be-replaced-by-yahoo-my-web
-categories:
-- Internet
+categories: [ Internet ]
 title: Will del.icio.us Be Replaced by Yahoo My Web?
 wordpress_id: 9
 ---

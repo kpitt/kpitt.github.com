@@ -2,10 +2,7 @@
 comments: false
 date: 2013-10-01T00:00:00Z
 external-url: null
-categories:
-- Mac
-- Programming
-- Applications
+categories: [ Mac, Programming, Applications ]
 title: Open Source TextMate
 ---
 

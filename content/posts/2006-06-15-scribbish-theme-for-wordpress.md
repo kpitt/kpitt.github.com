@@ -1,8 +1,7 @@
 ---
 comments: true
 date: 2006-06-15T17:07:17Z
-categories:
-- Blog
+categories: [ Blog ]
 title: Scribbish Theme for WordPress
 wordpress_id: 13
 ---

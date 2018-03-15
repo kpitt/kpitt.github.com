@@ -1,8 +1,7 @@
 ---
 comments: true
 date: 2009-09-15T13:17:59Z
-categories:
-- Internet
+categories: [ Internet ]
 title: '"Super-sized" Google Search Box'
 wordpress_id: 30
 ---

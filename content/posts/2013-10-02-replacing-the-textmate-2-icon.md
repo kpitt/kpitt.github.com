@@ -2,9 +2,7 @@
 comments: false
 date: 2013-10-02T00:00:00Z
 external-url: null
-categories:
-- Mac
-- Applications
+categories: [ Mac, Applications ]
 title: Replacing the TextMate 2 Icon
 ---
 

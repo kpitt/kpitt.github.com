@@ -1,10 +1,7 @@
 ---
 comments: true
 date: 2009-01-23T15:24:08Z
-categories:
-- .NET
-- Programming
-- Visual Studio
+categories: [ .NET, Programming, Visual Studio ]
 title: Visual Studio 2008 Database Edition and SQL Server 2008
 wordpress_id: 29
 ---

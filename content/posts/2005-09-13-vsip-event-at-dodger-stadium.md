@@ -1,8 +1,7 @@
 ---
 comments: false
 date: 2005-09-13T15:55:33Z
-categories:
-- General
+categories: [ General ]
 title: VSIP Event at Dodger Stadium
 wordpress_id: 6
 ---

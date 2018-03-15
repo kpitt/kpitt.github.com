@@ -2,8 +2,7 @@
 comments: true
 date: 2006-11-29T18:27:01Z
 slug: upgrade-to-wordpress-20
-categories:
-- Blog
+categories: [ Blog ]
 title: Upgrade to WordPress 2.0
 wordpress_id: 19
 ---

@@ -2,8 +2,7 @@
 comments: true
 date: 2011-07-11T14:00:42Z
 slug: first-impressions-of-google-plus
-categories:
-- Internet
+categories: [ Internet ]
 title: First Impressions of Google+
 wordpress_id: 31
 ---

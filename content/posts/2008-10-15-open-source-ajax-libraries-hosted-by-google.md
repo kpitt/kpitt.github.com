@@ -2,9 +2,7 @@
 comments: true
 date: 2008-10-15T17:18:26Z
 slug: open-source-ajax-libraries-hosted-by-google
-categories:
-- Internet
-- Programming
+categories: [ Internet, Programming ]
 title: Open-Source AJAX Libraries Hosted by Google
 wordpress_id: 27
 ---

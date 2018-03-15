@@ -1,8 +1,7 @@
 ---
 comments: true
 date: 2006-07-18T17:03:43Z
-categories:
-- Blog
+categories: [ Blog ]
 title: ScribbishWP Sidebar Bug in IE
 wordpress_id: 15
 ---
@@ -52,7 +51,7 @@ You'll need to consider lots of variables when determining the correct width for
 #### Enable Line Breaking
 
 You can force IE to add line breaks to normally "unbreakable" text by adding the following IE-specific CSS attribute:
-    
+
     word-wrap: break-word;
 
 This will, of course, mess up the careful formatting of your text without even giving you the control that you would have had by adjusting the content yourself. Non-IE browsers will ignore this non-standard attribute, though, so it should only affect the rendering on IE.
