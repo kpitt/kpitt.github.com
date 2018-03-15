@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2006-04-12T07:47:31Z
-tags:
+categories:
 - Mac
 - Programming
 title: First Time Riding the Rails

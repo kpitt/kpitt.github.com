@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2006-01-25T12:41:02Z
-tags:
+categories:
 - Applications
 - Internet
 title: Opera Browser Is Now Free

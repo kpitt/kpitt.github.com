@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2008-06-13T11:04:13Z
-tags:
+categories:
 - General
 title: We Were Hacked!
 wordpress_id: 26

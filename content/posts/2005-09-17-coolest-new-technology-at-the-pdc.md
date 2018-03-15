@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2005-09-17T17:57:42Z
-tags:
+categories:
 - Programming
 title: Coolest New Technology at the PDC
 wordpress_id: 7

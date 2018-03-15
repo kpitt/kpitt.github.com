@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2006-04-16T22:55:46Z
-tags:
+categories:
 - Applications
 - Internet
 title: Google Releases Calendar

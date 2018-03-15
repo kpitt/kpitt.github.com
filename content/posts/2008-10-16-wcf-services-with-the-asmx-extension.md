@@ -2,7 +2,7 @@
 comments: true
 date: 2008-10-16T10:07:55Z
 slug: wcf-services-with-the-asmx-extension
-tags:
+categories:
 - .NET
 - Internet
 - Programming

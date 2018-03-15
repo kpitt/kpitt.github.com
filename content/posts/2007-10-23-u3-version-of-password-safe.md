@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2007-10-23T17:19:30Z
-tags:
+categories:
 - Applications
 title: U3 Version of Password Safe
 wordpress_id: 22

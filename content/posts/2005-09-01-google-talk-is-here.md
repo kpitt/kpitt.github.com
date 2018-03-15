@@ -1,8 +1,7 @@
 ---
 comments: false
 date: 2005-09-01T17:37:31Z
-tags:
-- Applications
+categories: [ Applications ]
 title: Google Talk Is Here
 wordpress_id: 3
 ---

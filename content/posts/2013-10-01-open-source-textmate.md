@@ -2,7 +2,7 @@
 comments: false
 date: 2013-10-01T00:00:00Z
 external-url: null
-tags:
+categories:
 - Mac
 - Programming
 - Applications

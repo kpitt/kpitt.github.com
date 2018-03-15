@@ -2,7 +2,7 @@
 comments: true
 date: 2008-05-07T14:22:41Z
 slug: webresource-axd-mystery-solved
-tags:
+categories:
 - .NET
 - Programming
 title: WebResource.axd Mystery Solved

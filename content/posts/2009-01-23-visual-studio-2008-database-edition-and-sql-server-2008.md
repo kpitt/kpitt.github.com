@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2009-01-23T15:24:08Z
-tags:
+categories:
 - .NET
 - Programming
 - Visual Studio

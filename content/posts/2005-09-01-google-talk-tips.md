@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2005-09-01T22:35:35Z
-tags:
+categories:
 - Applications
 title: Google Talk Tips
 wordpress_id: 4

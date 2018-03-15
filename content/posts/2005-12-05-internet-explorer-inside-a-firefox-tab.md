@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2005-12-05T13:44:12Z
-tags:
+categories:
 - Applications
 - Internet
 title: Internet Explorer Inside a Firefox Tab

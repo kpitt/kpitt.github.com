@@ -2,7 +2,7 @@
 comments: true
 date: 2008-05-17T17:24:37Z
 slug: csharp-30-features-for-net-20
-tags:
+categories:
 - .NET
 - Programming
 title: C# 3.0 Features for .NET 2.0

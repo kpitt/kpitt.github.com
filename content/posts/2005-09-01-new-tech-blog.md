@@ -1,7 +1,7 @@
 ---
 comments: false
 date: 2005-09-01T13:54:09Z
-tags:
+categories:
 - General
 title: New Tech Blog
 wordpress_id: 2
