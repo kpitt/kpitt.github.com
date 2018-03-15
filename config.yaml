@@ -17,6 +17,9 @@ params:
 
 menu:
   main:
-    - name: "Blog"
+    - name: "Posts"
       weight: 1
       url: "/posts/"
+    - name: "Categories"
+      weight: 2
+      url: "/categories/"
