@@ -1,10 +1,9 @@
 ---
 comments: false
 date: 2005-09-17T17:57:42Z
-slug: coolest-new-technology-at-the-pdc
 tags:
 - Programming
-title: Coolest new technology at the PDC
+title: Coolest New Technology at the PDC
 wordpress_id: 7
 ---
 

@@ -1,10 +1,10 @@
 ---
 comments: true
 date: 2006-08-08T17:03:33Z
-slug: turbo-c-returns
+slug: turbo-c-plus-plus-returns
 tags:
 - Programming
-title: Turbo C++ returns!
+title: Turbo C++ Returns!
 wordpress_id: 16
 ---
 

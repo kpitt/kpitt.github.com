@@ -1,10 +1,9 @@
 ---
 comments: false
 date: 2005-09-01T13:54:09Z
-slug: new-tech-blog
 tags:
 - General
-title: New tech blog
+title: New Tech Blog
 wordpress_id: 2
 ---
 

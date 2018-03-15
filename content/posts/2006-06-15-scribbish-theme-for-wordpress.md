@@ -1,10 +1,9 @@
 ---
 comments: true
 date: 2006-06-15T17:07:17Z
-slug: scribbish-theme-for-wordpress
 tags:
 - Blog
-title: Scribbish theme for WordPress
+title: Scribbish Theme for WordPress
 wordpress_id: 13
 ---
 

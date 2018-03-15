@@ -1,11 +1,10 @@
 ---
 comments: false
 date: 2006-04-12T07:47:31Z
-slug: first-time-riding-the-rails
 tags:
 - Mac
 - Programming
-title: First time riding the Rails
+title: First Time Riding the Rails
 wordpress_id: 11
 ---
 

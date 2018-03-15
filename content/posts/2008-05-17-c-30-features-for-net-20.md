@@ -1,11 +1,11 @@
 ---
 comments: true
 date: 2008-05-17T17:24:37Z
-slug: c-30-features-for-net-20
+slug: csharp-30-features-for-net-20
 tags:
 - .NET
 - Programming
-title: C# 3.0 features for .NET 2.0
+title: C# 3.0 Features for .NET 2.0
 wordpress_id: 24
 ---
 

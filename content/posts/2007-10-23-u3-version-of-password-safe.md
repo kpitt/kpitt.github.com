@@ -1,10 +1,9 @@
 ---
 comments: true
 date: 2007-10-23T17:19:30Z
-slug: u3-version-of-password-safe
 tags:
 - Applications
-title: U3 version of Password Safe
+title: U3 Version of Password Safe
 wordpress_id: 22
 ---
 

@@ -1,11 +1,11 @@
 ---
 comments: true
 date: 2008-05-07T14:22:41Z
-slug: webresourceaxd-mystery-solved
+slug: webresource-axd-mystery-solved
 tags:
 - .NET
 - Programming
-title: WebResource.axd mystery solved
+title: WebResource.axd Mystery Solved
 wordpress_id: 23
 ---
 

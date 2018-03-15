@@ -1,10 +1,9 @@
 ---
 comments: true
 date: 2008-06-13T11:04:13Z
-slug: we-were-hacked
 tags:
 - General
-title: We were hacked!
+title: We Were Hacked!
 wordpress_id: 26
 ---
 

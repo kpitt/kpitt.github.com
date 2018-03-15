@@ -6,7 +6,7 @@ tags:
 - .NET
 - Internet
 - Programming
-title: WCF Services with the .asmx extension
+title: WCF Services with the .asmx Extension
 wordpress_id: 28
 ---
 

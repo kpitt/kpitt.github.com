@@ -1,10 +1,9 @@
 ---
 comments: false
 date: 2005-09-01T17:37:31Z
-slug: google-talk-is-here
 tags:
 - Applications
-title: Google Talk is here
+title: Google Talk Is Here
 wordpress_id: 3
 ---
 

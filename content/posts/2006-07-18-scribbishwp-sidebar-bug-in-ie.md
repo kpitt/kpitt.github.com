@@ -1,10 +1,9 @@
 ---
 comments: true
 date: 2006-07-18T17:03:43Z
-slug: scribbishwp-sidebar-bug-in-ie
 tags:
 - Blog
-title: ScribbishWP sidebar bug in IE
+title: ScribbishWP Sidebar Bug in IE
 wordpress_id: 15
 ---
 

@@ -1,7 +1,6 @@
 ---
 comments: true
 date: 2009-01-23T15:24:08Z
-slug: visual-studio-2008-database-edition-and-sql-server-2008
 tags:
 - .NET
 - Programming

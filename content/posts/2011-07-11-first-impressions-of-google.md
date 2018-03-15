@@ -1,10 +1,10 @@
 ---
 comments: true
 date: 2011-07-11T14:00:42Z
-slug: first-impressions-of-google
+slug: first-impressions-of-google-plus
 tags:
 - Internet
-title: First impressions of Google+
+title: First Impressions of Google+
 wordpress_id: 31
 ---
 

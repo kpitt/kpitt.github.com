@@ -1,10 +1,9 @@
 ---
 comments: true
 date: 2006-10-20T14:40:11Z
-slug: ie7-and-the-scribbishwp-sidebar
 tags:
 - Blog
-title: IE7 and the ScribbishWP sidebar
+title: IE7 and the ScribbishWP Sidebar
 wordpress_id: 18
 ---
 

@@ -1,10 +1,9 @@
 ---
 comments: true
 date: 2009-09-15T13:17:59Z
-slug: super-sized-google-search-box
 tags:
 - Internet
-title: '"Super-sized" Google search box'
+title: '"Super-sized" Google Search Box'
 wordpress_id: 30
 ---
 

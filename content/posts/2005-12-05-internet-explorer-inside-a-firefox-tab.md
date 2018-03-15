@@ -1,11 +1,10 @@
 ---
 comments: false
 date: 2005-12-05T13:44:12Z
-slug: internet-explorer-inside-a-firefox-tab
 tags:
 - Applications
 - Internet
-title: Internet Explorer inside a Firefox tab
+title: Internet Explorer Inside a Firefox Tab
 wordpress_id: 8
 ---
 

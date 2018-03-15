@@ -1,11 +1,10 @@
 ---
 comments: false
 date: 2006-04-16T22:55:46Z
-slug: google-releases-calendar
 tags:
 - Applications
 - Internet
-title: Google releases Calendar
+title: Google Releases Calendar
 wordpress_id: 12
 ---
 

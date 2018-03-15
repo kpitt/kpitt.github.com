@@ -1,10 +1,9 @@
 ---
 comments: false
 date: 2005-09-01T22:35:35Z
-slug: google-talk-tips
 tags:
 - Applications
-title: Google Talk tips
+title: Google Talk Tips
 wordpress_id: 4
 ---
 

@@ -1,10 +1,9 @@
 ---
 comments: false
 date: 2005-09-13T15:55:33Z
-slug: vsip-event-at-dodger-stadium
 tags:
 - General
-title: VSIP event at Dodger Stadium
+title: VSIP Event at Dodger Stadium
 wordpress_id: 6
 ---
 

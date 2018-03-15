@@ -1,11 +1,10 @@
 ---
 comments: false
 date: 2006-01-25T12:41:02Z
-slug: opera-browser-is-now-free
 tags:
 - Applications
 - Internet
-title: Opera browser is now free
+title: Opera Browser Is Now Free
 wordpress_id: 10
 ---
 
