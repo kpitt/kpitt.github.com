@@ -3,7 +3,7 @@ markdown: rdiscount
 lsi: false
 highlighter: pygments
 
-gems:
+plugins:
     - jekyll-sitemap
 
 canonical_url: http://geek.pittcrew.net
