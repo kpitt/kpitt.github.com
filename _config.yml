@@ -1,5 +1,4 @@
 permalink: /:year/:month/:title.html
-markdown: rdiscount
 lsi: false
 highlighter: rouge
 
