@@ -2,7 +2,7 @@
 comments: true
 date: 2013-05-18T00:00:00Z
 external-url: http://osxdaily.com/2013/01/22/fix-open-with-menu-mac-os-x/
-categories: Mac
+categories: [ Mac ]
 title: Fix the "Open With" Menu in Mac OS X
 ---
 
